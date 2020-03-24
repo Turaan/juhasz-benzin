@@ -1,0 +1,6 @@
+C:\Users\Turan\OneDrive\Asztali gép\Juhasz2\Juhasz2\bin\Debug\Juhasz2.exe.config
+C:\Users\Turan\OneDrive\Asztali gép\Juhasz2\Juhasz2\bin\Debug\Juhasz2.exe
+C:\Users\Turan\OneDrive\Asztali gép\Juhasz2\Juhasz2\bin\Debug\Juhasz2.pdb
+C:\Users\Turan\OneDrive\Asztali gép\Juhasz2\Juhasz2\obj\Debug\Juhasz2.csprojAssemblyReference.cache
+C:\Users\Turan\OneDrive\Asztali gép\Juhasz2\Juhasz2\obj\Debug\Juhasz2.exe
+C:\Users\Turan\OneDrive\Asztali gép\Juhasz2\Juhasz2\obj\Debug\Juhasz2.pdb
